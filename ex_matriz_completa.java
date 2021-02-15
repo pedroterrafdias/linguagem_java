@@ -8,7 +8,7 @@ public class matriz_geral {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		  int n, indlinha, indcoluna;
+	    int n, indlinha, indcoluna;
 	    double somapositivos;
 
 	    System.out.print("Qual a ordem da matriz? ");
